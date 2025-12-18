@@ -32,11 +32,6 @@ After taking the course, students will
 
 - Parallel programming approaches
 
-## Instructors
-Eugene Zouev (e.zuev@innopolis.ru) - primary instructor
-
-Munir Makhmutov (m.makhmutov@innopolis.ru) - tutorial instructor
-
 ## Assignments
 
 1. [Based Sum](./Based%20Sum/)
